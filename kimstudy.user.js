@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Gimgwahoe Automation
+// @name         hey
 // @namespace    http://tampermonkey.net/
 // @version      2026-07-15
 // @description  Gimgwahoe tutor automation overlay
